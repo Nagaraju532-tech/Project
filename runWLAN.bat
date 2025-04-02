@@ -1,0 +1,2 @@
+python BlockAccessWLAN.py
+pause
